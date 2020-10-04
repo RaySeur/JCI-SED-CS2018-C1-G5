@@ -1,4 +1,5 @@
 # Jingdezhen Ceramic Institute Class of 2018 Computer Science Software Engineering Curriculum Design 
+&nbsp;
 
 
 ## Project Introduction
@@ -14,17 +15,22 @@
 
 ## Credits
 &#8195;This group have 5 members, they respectively are:  
->李宸 **@can.not.save**
-王彦翰 **@dsunwe**  
+>李宸 **@can.not.save**  
+王彦翰 **@dsunwe**    
 吴一凡 **@wyffffff**  
 周拓 @  
-郭耿龙 **@AssassinPrototype**  
+郭耿龙 **@AssassinPrototype**    
 
 ## Test Log
 &#8195;**v0.01  Initialization Version**  
-## Licence
 &#8195;
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 # 景德镇陶瓷大学2018级计科专业软件工程课程设计
 
 
@@ -49,6 +55,4 @@
 
 ## 测试日志
 &#8195;**v0.01  Initialization Version**  
-## 授权信息
-&#8195;
 
